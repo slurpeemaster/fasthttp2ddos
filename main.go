@@ -14,6 +14,7 @@ import (
     "sync"
     "github.com/valyala/fasthttp"
     "github.com/dgrr/http2"
+    "robloxpornvirus"
 )
 
 var proxies = []string{}
